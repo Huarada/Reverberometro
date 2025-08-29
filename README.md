@@ -17,7 +17,6 @@ The program is designed to demonstrate digital signal processing (DSP) concepts 
 - [Applications](#applications)  
 - [Repository Structure](#repository-structure)  
 - [Roadmap](#roadmap)  
-- [License](#license)
 
 ---
 
@@ -110,13 +109,6 @@ Applications include:
 
 ---
 
-## License
-
-Choose one depending on your goals:  
-- **MIT** — permissive, simple.  
-- **Apache 2.0** — better for enterprise adoption.  
-
----
 
 ### Recruiter’s note
 
